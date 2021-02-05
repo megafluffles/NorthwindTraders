@@ -26,7 +26,12 @@
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"ms-dotnettools.csharp",
-		"ms-mssql.mssql"
+		"ms-mssql.mssql",
+		"semasquare.vscode-coverage-gutters",
+		"eamodio.gitlens",
+		"josefpihrt-vscode.roslynator",
+		"fernandoescolar.vscode-solution-explorer",
+		"formulahendry.dotnet-test-explorer"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
